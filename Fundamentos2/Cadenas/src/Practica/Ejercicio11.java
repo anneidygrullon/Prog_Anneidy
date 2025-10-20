@@ -1,3 +1,5 @@
+package Practica;
+
 public class Ejercicio11 {
         public static void main (String[] args) {
             System.out.println(hexString (12, 15, 77)); // 0C0F4D

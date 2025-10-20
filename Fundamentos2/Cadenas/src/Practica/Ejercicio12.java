@@ -1,3 +1,5 @@
+package Practica;
+
 public class Ejercicio12 {
         public static void main(String[] args) {
             System.out.println(correoElectronicoValido("abc@me.com")); // 0C0F4D

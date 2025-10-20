@@ -1,3 +1,5 @@
+package Practica;
+
 public class Ejercicio13 {
         public static void main (String[] args) {
             System.out. println(elipsificar("yo soy Anneidy", 6));} // 0C0F4D

@@ -1,7 +1,9 @@
+package Practica;
+
 public class Ejercicios10 {
     public static void main(String[] args) {
-        int anio1 = 2024;
-        int anio2 = 2025;
+        int anio1 = 2025;
+        int anio2 = 2026;
 
         String pascua1 = DomingoPascua(anio1);
         System.out.println("Domingo de Pascua (" + anio1 + ") -> " + pascua1);
