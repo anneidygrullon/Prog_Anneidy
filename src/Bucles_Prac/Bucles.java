@@ -75,10 +75,10 @@ public class Bucles {
 
     // EJERCICIO10
     public static int suma(int n) {
-        int sumahasta = 0;
+        int sumah = 0;
         for (int i = 1; i <= n; i++) {
-            sumahasta += i;
+            sumah += i;
         }
-        return sumahasta;
+        return sumah;
 }
     }
